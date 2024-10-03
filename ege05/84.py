@@ -4,7 +4,7 @@ def f(n):
         b = b + "1"
     else:
         b = b + "0"
-    b = b + "(b.count("1") % 2)"
+    b = b + str(b.count("1") % 2)
     return int(b, 2)
 
 
