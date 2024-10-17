@@ -15,5 +15,5 @@ def f(n):
 
 for i in range(1, 1000):
     if f(i) > 54:
-        print(i)
+        print(f(i))
         break

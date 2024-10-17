@@ -14,6 +14,6 @@ def f(n):
 
 a= []
 for i in range(1, 1000):
-    if f(i) >= 64 and f(i) < 74:
+    if f(i) >= 64 and f(i) < 72:
         a.append(f(i))
 print(len(a))

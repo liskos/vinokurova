@@ -13,5 +13,5 @@ def f(n):
 
 for i in range(1, 1000):
     if f(i) > 121:
-        print(bin(i)[2:])
+        print(i)
         break
