@@ -5,7 +5,7 @@ def f(n):
     return int(b, 2)
 
 a = []
-for i in range(1, 101):
-    if f(i) == 7:
-        a.append(i)
+for i in range(1, 501):
+    if f(i) == 11:
+      a.append(i)
 print(max(a))
