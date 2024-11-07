@@ -7,6 +7,6 @@ def f(n):
 print(f(11))
 a = set()
 for i in range(2, 10000):
-    if f(i) < 128:
+    if f(i) <= 128:
         a.add(i)
 print(max(a))
