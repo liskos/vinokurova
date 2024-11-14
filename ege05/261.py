@@ -3,7 +3,9 @@ def f(n):
     if b.count("0") > 0:
         bf0 = b[:b.rfind("0")]
         af0= b[b.rfind("0"):]
-        b = bf0 + b[0] + b[1] + af0
+        b = bf0 + b[0] + b[1] + af0[1:]
+    else:
+        return 0
     b = b[::-1]
     return int(b, 2)
 

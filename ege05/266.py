@@ -14,7 +14,7 @@ def f(n):
     return n3
 
 s = set()
-for i in range(2, 1000):
+for i in range(2, 1500):
     if f(i) == 8:
         s.add(i)
 print(len(s))

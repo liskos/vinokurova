@@ -8,6 +8,7 @@ def f(n):
     return abs(s1 - s2)
 
 print(f(1234))
-for i in range(1, 1000):
+for i in range(1, 1000000000):
     if f(i) == 28:
         print(i)
+        break

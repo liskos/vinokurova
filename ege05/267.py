@@ -1,7 +1,7 @@
 def f(n):
     b = bin(n)[2:]
     b1 = b[0]
-    b2 = b[0:]
+    b2 = b[1:]
     b2 = b2.replace("1", "2")
     b2 = b2.replace("0", "1")
     b2 = b2.replace("2", "0")

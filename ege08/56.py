@@ -3,10 +3,10 @@ from itertools import repeat
 
 a = set()
 for i in itertools.product('СИРОП', repeat = 5):
-    if i.count("О") == 1 and "СО" in i:
+    ss = "".join(i).replace("Р", "С").replace("П", "С")
+    ss = ss.replace("СО", "XX")
+    print(ss)
+    if "О" not in ss and i.count("О") == 1:
         a.add(i)
-    elif i.count("О") == 1 and "РО" in i:
-        a.add(i)
-    elif i.count("О") == 1 and "ПО" in i:
-        a.add(i)
+
 print(len(a))
