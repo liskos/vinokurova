@@ -7,9 +7,9 @@ def f(n):
         b = "1" + b + "0"
     return int(b, 2)
 
-print(f(4))
+print(f(4), f(6))
 a = set()
 for i in range(2, 1000):
     if f(i) < 450:
-        a.add(i)
+        a.add(f(i))
 print(max(a))

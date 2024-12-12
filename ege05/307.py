@@ -4,8 +4,10 @@ def f(n):
     return int(n2, 2)
 
 print(f(13))
+a = set()
 for i in range(1, 1000):
     if f(i) > 224:
-        print(f(i))
-        break
+        a.add(f(i))
+print(min(a))
+
 

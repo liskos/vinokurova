@@ -7,6 +7,6 @@ def f(n):
 
 k = 0
 for i in range(1000, 9999+1):
-    if (f(i) // 1000) == 9 and oct(f(i))[-1] == "4":
+    if str(f(i))[0] == "9" and f(i) % 8 == 4:
         k += 1
 print(k)

@@ -8,6 +8,5 @@ def f(n):
 
 print(f(12))
 for i in range(1, 1000):
-    if f(i) > 100:
-        print(i)
-        break
+    if f(i) == 101:
+        print(f(i), i)

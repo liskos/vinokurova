@@ -12,7 +12,7 @@ def f(n):
 
 print(f(7))
 a = set()
-for i in range(1, 1000):
+for i in range(1, 10000000):
     if f(i) < 10**6:
         a.add(i)
 print(max(a))

@@ -10,7 +10,7 @@ def f(n):
     if n % 3 == 0:
         n3 = n3 + n3[-2] + n3[-1]
     else:
-        n3 = n3 + str(tr((n%3)* 5))
+        n3 = n3 + tr((n%3)* 5)
     return int(n3, 3)
 
 print(f(11))

@@ -9,4 +9,4 @@ def f(n):
 print(f(12))
 for i in range(4, 1000):
     if f(i) < 68:
-        print(i)
+        print(f(i))

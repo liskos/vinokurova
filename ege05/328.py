@@ -8,5 +8,5 @@ def f(n):
 
 print(f(13))
 for i in range(1, 1000):
-    if f(i) <=223:
-        print(i)
+    if f(i) <= 223:
+        print(f(i))

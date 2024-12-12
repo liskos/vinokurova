@@ -6,8 +6,9 @@ def f(n):
         b = b + str(bin(sum(map(int, str(b))))[2:])
     return int(b, 2)
 
-print(f(4))
+print(f(4), f(13))
+a = set()
 for i in range(9, 1000):
-    if f(i) > 88:
-        print(i)
-        break
+    if f(i) == 103:
+        a.add(i)
+print(a)

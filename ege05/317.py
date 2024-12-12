@@ -6,7 +6,7 @@ def f(n):
         b = str(bin((n%4)*2)[2:]) + b
     return int(b, 2)
 
-print(f(10))
+print(f(10), f(12))
 for i in range(4, 1000):
-    if f(i) < 168:
+    if f(i) < 68:
         print(i)
