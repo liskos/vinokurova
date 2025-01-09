@@ -4,7 +4,8 @@ def f(x,y):
 a = [[" "] * 200 for i in range(200)]
 for i in range(200):
     for j in range(200):
-        a[i][j] = "0"
+        if i + j >= 77:
+            a[i][j] = "0"
 
 for i in range(77):
     for j in range(77):
