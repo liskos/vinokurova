@@ -24,6 +24,7 @@ for i in range(77):
         if a[i][j] == " " and all(a[x][y] in "13" for x,y in f(i, j)):
             a[i][j] = "4"
 
-
+import sys
+sys.stdout = open("1.xls", mode = "w" )
 for i in range(1, 200):
-    print(*a[i][1:], sep = "\t")
+    print(*a[i][1:], sep ="\t")
