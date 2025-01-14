@@ -25,6 +25,6 @@ for i in range(77):
             a[i][j] = "4"
 
 import sys
-sys.stdout = open("1.xls", mode = "w" )
+sys.stdout = open("r00.xls", mode ="w")
 for i in range(1, 200):
     print(*a[i][1:], sep ="\t")
