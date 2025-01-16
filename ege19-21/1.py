@@ -24,7 +24,7 @@ for i in range(75):
 
 for i in range(75):
     for j in range(75):
-        if a[i][j] == " " and all(a[x][y] == "13" for x, y in f(i, j)):
+        if a[i][j] == " " and all(a[x][y] in "13" for x, y in f(i, j)):
             a[i][j] = "4"
 
 import sys
