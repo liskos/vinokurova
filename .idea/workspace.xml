@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1984921-d784-45b3-9cb8-4a1a7677751f" name="Changes" comment="15 01 25">
+      <change afterPath="$PROJECT_DIR$/ege08/169.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege08/170.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege08/171.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege08/172.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege08/173.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege08/174.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege08/175.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege08/176.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege08/177.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege08/178.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege08/179.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege08/180.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege08/181.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege08/182.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege08/186.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege08/187.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege08/188.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege08/189.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege08/190.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege08/191.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege08/192.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege13/111.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege13/112.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege13/113.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege13/114.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege13/115.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege13/116.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege13/117.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege13/118.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege13/119.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege13/120.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege13/121.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege13/122.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege13/123.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege13/124.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege13/125.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege13/126.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege13/127.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege13/128.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege13/129.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege13/130.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege13/131.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege13/133.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege13/134.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege13/136.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege13/137.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege13/138.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege13/139.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege13/140.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege13/141.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege13/142.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege13/143.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege13/144.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege13/145.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege13/146.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege13/147.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege13/148.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege13/149.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege13/150.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege13/151.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege13/152.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege13/153.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege19-21/10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege19-21/12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege19-21/13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege19-21/14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege19-21/15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege19-21/16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege19-21/17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege19-21/18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege19-21/19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege19-21/20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege19-21/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege19-21/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege19-21/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege19-21/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege19-21/7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege19-21/8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege19-21/9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vinokurova.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vinokurova1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ege08/168.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege08/168.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ege13/132.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege13/132.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ege19-21/2.xls" beforeDir="false" afterPath="$PROJECT_DIR$/ege19-21/2.xls" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ksenia1036&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/liskos/vinokurova.git&quot;,
+    &quot;accountId&quot;: &quot;254593f8-8282-453d-adb0-7cbb6281744f&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;3dbf0bff&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2rg5ti6UI7UYHmurBAZCgm8rPQP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.10.executor": "Run",
+    "Python.100.executor": "Run",
+    "Python.101.executor": "Run",
+    "Python.102.executor": "Run",
+    "Python.103.executor": "Run",
+    "Python.104.executor": "Run",
+    "Python.105.executor": "Run",
+    "Python.106.executor": "Run",
+    "Python.107.executor": "Run",
+    "Python.108.executor": "Run",
+    "Python.109.executor": "Run",
+    "Python.110.executor": "Run",
+    "Python.111.executor": "Run",
+    "Python.112.executor": "Run",
+    "Python.113.executor": "Run",
+    "Python.114.executor": "Run",
+    "Python.115.executor": "Run",
+    "Python.116.executor": "Run",
+    "Python.117.executor": "Run",
+    "Python.118.executor": "Run",
+    "Python.119.executor": "Run",
+    "Python.12.executor": "Run",
+    "Python.120.executor": "Run",
+    "Python.121.executor": "Run",
+    "Python.122.executor": "Run",
+    "Python.123.executor": "Run",
+    "Python.124.executor": "Run",
+    "Python.125.executor": "Run",
+    "Python.126.executor": "Run",
+    "Python.127.executor": "Run",
+    "Python.128.executor": "Run",
+    "Python.129.executor": "Run",
+    "Python.13.executor": "Run",
+    "Python.130.executor": "Run",
+    "Python.131.executor": "Run",
+    "Python.132.executor": "Run",
+    "Python.133.executor": "Run",
+    "Python.134.executor": "Run",
+    "Python.135.executor": "Run",
+    "Python.136.executor": "Run",
+    "Python.137.executor": "Run",
+    "Python.138.executor": "Run",
+    "Python.139.executor": "Run",
+    "Python.14.executor": "Run",
+    "Python.140.executor": "Run",
+    "Python.141.executor": "Run",
+    "Python.142.executor": "Run",
+    "Python.143.executor": "Run",
+    "Python.144.executor": "Run",
+    "Python.145.executor": "Run",
+    "Python.146.executor": "Run",
+    "Python.147.executor": "Run",
+    "Python.148.executor": "Run",
+    "Python.149.executor": "Run",
+    "Python.15.executor": "Run",
+    "Python.150.executor": "Run",
+    "Python.151.executor": "Run",
+    "Python.152.executor": "Run",
+    "Python.153.executor": "Run",
+    "Python.16.executor": "Run",
+    "Python.168.executor": "Run",
+    "Python.169.executor": "Run",
+    "Python.17.executor": "Run",
+    "Python.170.executor": "Run",
+    "Python.171.executor": "Run",
+    "Python.172.executor": "Run",
+    "Python.173.executor": "Run",
+    "Python.174.executor": "Run",
+    "Python.175.executor": "Run",
+    "Python.1766.executor": "Run",
+    "Python.177.executor": "Run",
+    "Python.178.executor": "Run",
+    "Python.179.executor": "Run",
+    "Python.18.executor": "Run",
+    "Python.180.executor": "Run",
+    "Python.181.executor": "Run",
+    "Python.182.executor": "Run",
+    "Python.186.executor": "Run",
+    "Python.187.executor": "Run",
+    "Python.188.executor": "Run",
+    "Python.189.executor": "Run",
+    "Python.19.executor": "Run",
+    "Python.190.executor": "Run",
+    "Python.191.executor": "Run",
+    "Python.29.executor": "Run",
+    "Python.3.executor": "Run",
+    "Python.31.executor": "Run",
+    "Python.4.executor": "Run",
+    "Python.40.executor": "Run",
+    "Python.5.executor": "Run",
+    "Python.53.executor": "Run",
+    "Python.6.executor": "Run",
+    "Python.7.executor": "Run",
+    "Python.70.executor": "Run",
+    "Python.71.executor": "Run",
+    "Python.72.executor": "Run",
+    "Python.73.executor": "Run",
+    "Python.74.executor": "Run",
+    "Python.75.executor": "Run",
+    "Python.76.executor": "Run",
+    "Python.77.executor": "Run",
+    "Python.78.executor": "Run",
+    "Python.79.executor": "Run",
+    "Python.8.executor": "Run",
+    "Python.80.executor": "Run",
+    "Python.81.executor": "Run",
+    "Python.82.executor": "Run",
+    "Python.83.executor": "Run",
+    "Python.84.executor": "Run",
+    "Python.85.executor": "Run",
+    "Python.86.executor": "Run",
+    "Python.87.executor": "Run",
+    "Python.88.executor": "Run",
+    "Python.89.executor": "Run",
+    "Python.9.executor": "Run",
+    "Python.90.executor": "Run",
+    "Python.91.executor": "Run",
+    "Python.92.executor": "Run",
+    "Python.93.executor": "Run",
+    "Python.94.executor": "Run",
+    "Python.95.executor": "Run",
+    "Python.96.executor": "Run",
+    "Python.97.executor": "Run",
+    "Python.98.executor": "Run",
+    "Python.99.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.20">
+    <configuration name="16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="vinokurova1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ege19-21" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ege19-21/16.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="17" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="vinokurova1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ege19-21" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ege19-21/17.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="18" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="vinokurova1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ege19-21" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ege19-21/18.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="19" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="vinokurova1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ege19-21" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ege19-21/19.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="20" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="vinokurova1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ege19-21" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ege19-21/20.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.20" />
+        <item itemvalue="Python.19" />
+        <item itemvalue="Python.18" />
+        <item itemvalue="Python.17" />
+        <item itemvalue="Python.16" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-98f27166c754-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.21829.153" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1984921-d784-45b3-9cb8-4a1a7677751f" name="Changes" comment="" />
+      <created>1736968094766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736968094766</updated>
+    </task>
+    <task id="LOCAL-00001" summary="15 01 25">
+      <option name="closed" value="true" />
+      <created>1736973702252</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736973702252</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="15 01 25" />
+    <option name="LAST_COMMIT_MESSAGE" value="15 01 25" />
+  </component>
+</project>
