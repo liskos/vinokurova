@@ -1,0 +1,407 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"a1984921-d784-45b3-9cb8-4a1a7677751f\" name=\"Changes\" comment=\"15 01 25\">\r\n      <change afterPath=\"$PROJECT_DIR$/ege08/169.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege08/170.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege08/171.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege08/172.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege08/173.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege08/174.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege08/175.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege08/176.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege08/177.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege08/178.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege08/179.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege08/180.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege08/181.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege08/182.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege08/186.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege08/187.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege08/188.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege08/189.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege08/190.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege08/191.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege08/192.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege13/111.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege13/112.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege13/113.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege13/114.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege13/115.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege13/116.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege13/117.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege13/118.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege13/119.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege13/120.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege13/121.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege13/122.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege13/123.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege13/124.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege13/125.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege13/126.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege13/127.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege13/128.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege13/129.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege13/130.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege13/131.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege13/133.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege13/134.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege13/136.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege13/137.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege13/138.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege13/139.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege13/140.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege13/141.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege13/142.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege13/143.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege13/144.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege13/145.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege13/146.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege13/147.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege13/148.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege13/149.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege13/150.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege13/151.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege13/152.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege13/153.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege19-21/10.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege19-21/12.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege19-21/13.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege19-21/14.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege19-21/15.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege19-21/16.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege19-21/17.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege19-21/18.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege19-21/19.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege19-21/20.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege19-21/3.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege19-21/4.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege19-21/5.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege19-21/6.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege19-21/7.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege19-21/8.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/ege19-21/9.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/.gitignore\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/misc.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/misc.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/modules.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/modules.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/vcs.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/vcs.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/vinokurova.iml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/vinokurova1.iml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/ege08/168.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/ege08/168.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/ege13/132.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/ege13/132.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/ege19-21/2.xls\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/ege19-21/2.xls\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;ksenia1036&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/liskos/vinokurova.git&quot;,\r\n    &quot;accountId&quot;: &quot;254593f8-8282-453d-adb0-7cbb6281744f&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;customColor&quot;: &quot;3dbf0bff&quot;,\r\n  &quot;associatedIndex&quot;: 5\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2rg5ti6UI7UYHmurBAZCgm8rPQP\" />\r\n  <component name=\"ProjectLevelVcsManager\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Python.10.executor\": \"Run\",\r\n    \"Python.100.executor\": \"Run\",\r\n    \"Python.101.executor\": \"Run\",\r\n    \"Python.102.executor\": \"Run\",\r\n    \"Python.103.executor\": \"Run\",\r\n    \"Python.104.executor\": \"Run\",\r\n    \"Python.105.executor\": \"Run\",\r\n    \"Python.106.executor\": \"Run\",\r\n    \"Python.107.executor\": \"Run\",\r\n    \"Python.108.executor\": \"Run\",\r\n    \"Python.109.executor\": \"Run\",\r\n    \"Python.110.executor\": \"Run\",\r\n    \"Python.111.executor\": \"Run\",\r\n    \"Python.112.executor\": \"Run\",\r\n    \"Python.113.executor\": \"Run\",\r\n    \"Python.114.executor\": \"Run\",\r\n    \"Python.115.executor\": \"Run\",\r\n    \"Python.116.executor\": \"Run\",\r\n    \"Python.117.executor\": \"Run\",\r\n    \"Python.118.executor\": \"Run\",\r\n    \"Python.119.executor\": \"Run\",\r\n    \"Python.12.executor\": \"Run\",\r\n    \"Python.120.executor\": \"Run\",\r\n    \"Python.121.executor\": \"Run\",\r\n    \"Python.122.executor\": \"Run\",\r\n    \"Python.123.executor\": \"Run\",\r\n    \"Python.124.executor\": \"Run\",\r\n    \"Python.125.executor\": \"Run\",\r\n    \"Python.126.executor\": \"Run\",\r\n    \"Python.127.executor\": \"Run\",\r\n    \"Python.128.executor\": \"Run\",\r\n    \"Python.129.executor\": \"Run\",\r\n    \"Python.13.executor\": \"Run\",\r\n    \"Python.130.executor\": \"Run\",\r\n    \"Python.131.executor\": \"Run\",\r\n    \"Python.132.executor\": \"Run\",\r\n    \"Python.133.executor\": \"Run\",\r\n    \"Python.134.executor\": \"Run\",\r\n    \"Python.135.executor\": \"Run\",\r\n    \"Python.136.executor\": \"Run\",\r\n    \"Python.137.executor\": \"Run\",\r\n    \"Python.138.executor\": \"Run\",\r\n    \"Python.139.executor\": \"Run\",\r\n    \"Python.14.executor\": \"Run\",\r\n    \"Python.140.executor\": \"Run\",\r\n    \"Python.141.executor\": \"Run\",\r\n    \"Python.142.executor\": \"Run\",\r\n    \"Python.143.executor\": \"Run\",\r\n    \"Python.144.executor\": \"Run\",\r\n    \"Python.145.executor\": \"Run\",\r\n    \"Python.146.executor\": \"Run\",\r\n    \"Python.147.executor\": \"Run\",\r\n    \"Python.148.executor\": \"Run\",\r\n    \"Python.149.executor\": \"Run\",\r\n    \"Python.15.executor\": \"Run\",\r\n    \"Python.150.executor\": \"Run\",\r\n    \"Python.151.executor\": \"Run\",\r\n    \"Python.152.executor\": \"Run\",\r\n    \"Python.153.executor\": \"Run\",\r\n    \"Python.16.executor\": \"Run\",\r\n    \"Python.168.executor\": \"Run\",\r\n    \"Python.169.executor\": \"Run\",\r\n    \"Python.17.executor\": \"Run\",\r\n    \"Python.170.executor\": \"Run\",\r\n    \"Python.171.executor\": \"Run\",\r\n    \"Python.172.executor\": \"Run\",\r\n    \"Python.173.executor\": \"Run\",\r\n    \"Python.174.executor\": \"Run\",\r\n    \"Python.175.executor\": \"Run\",\r\n    \"Python.1766.executor\": \"Run\",\r\n    \"Python.177.executor\": \"Run\",\r\n    \"Python.178.executor\": \"Run\",\r\n    \"Python.179.executor\": \"Run\",\r\n    \"Python.18.executor\": \"Run\",\r\n    \"Python.180.executor\": \"Run\",\r\n    \"Python.181.executor\": \"Run\",\r\n    \"Python.182.executor\": \"Run\",\r\n    \"Python.186.executor\": \"Run\",\r\n    \"Python.187.executor\": \"Run\",\r\n    \"Python.188.executor\": \"Run\",\r\n    \"Python.189.executor\": \"Run\",\r\n    \"Python.19.executor\": \"Run\",\r\n    \"Python.190.executor\": \"Run\",\r\n    \"Python.191.executor\": \"Run\",\r\n    \"Python.29.executor\": \"Run\",\r\n    \"Python.3.executor\": \"Run\",\r\n    \"Python.31.executor\": \"Run\",\r\n    \"Python.4.executor\": \"Run\",\r\n    \"Python.40.executor\": \"Run\",\r\n    \"Python.5.executor\": \"Run\",\r\n    \"Python.53.executor\": \"Run\",\r\n    \"Python.6.executor\": \"Run\",\r\n    \"Python.7.executor\": \"Run\",\r\n    \"Python.70.executor\": \"Run\",\r\n    \"Python.71.executor\": \"Run\",\r\n    \"Python.72.executor\": \"Run\",\r\n    \"Python.73.executor\": \"Run\",\r\n    \"Python.74.executor\": \"Run\",\r\n    \"Python.75.executor\": \"Run\",\r\n    \"Python.76.executor\": \"Run\",\r\n    \"Python.77.executor\": \"Run\",\r\n    \"Python.78.executor\": \"Run\",\r\n    \"Python.79.executor\": \"Run\",\r\n    \"Python.8.executor\": \"Run\",\r\n    \"Python.80.executor\": \"Run\",\r\n    \"Python.81.executor\": \"Run\",\r\n    \"Python.82.executor\": \"Run\",\r\n    \"Python.83.executor\": \"Run\",\r\n    \"Python.84.executor\": \"Run\",\r\n    \"Python.85.executor\": \"Run\",\r\n    \"Python.86.executor\": \"Run\",\r\n    \"Python.87.executor\": \"Run\",\r\n    \"Python.88.executor\": \"Run\",\r\n    \"Python.89.executor\": \"Run\",\r\n    \"Python.9.executor\": \"Run\",\r\n    \"Python.90.executor\": \"Run\",\r\n    \"Python.91.executor\": \"Run\",\r\n    \"Python.92.executor\": \"Run\",\r\n    \"Python.93.executor\": \"Run\",\r\n    \"Python.94.executor\": \"Run\",\r\n    \"Python.95.executor\": \"Run\",\r\n    \"Python.96.executor\": \"Run\",\r\n    \"Python.97.executor\": \"Run\",\r\n    \"Python.98.executor\": \"Run\",\r\n    \"Python.99.executor\": \"Run\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"git-widget-placeholder\": \"master\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RunManager\" selected=\"Python.20\">\r\n    <configuration name=\"16\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"vinokurova1\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/ege19-21\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/ege19-21/16.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"17\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"vinokurova1\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/ege19-21\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/ege19-21/17.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"18\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"vinokurova1\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/ege19-21\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/ege19-21/18.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"19\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"vinokurova1\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/ege19-21\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/ege19-21/19.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"20\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"vinokurova1\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/ege19-21\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/ege19-21/20.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Python.20\" />\r\n        <item itemvalue=\"Python.19\" />\r\n        <item itemvalue=\"Python.18\" />\r\n        <item itemvalue=\"Python.17\" />\r\n        <item itemvalue=\"Python.16\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-98f27166c754-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.21829.153\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"a1984921-d784-45b3-9cb8-4a1a7677751f\" name=\"Changes\" comment=\"\" />\r\n      <created>1736968094766</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1736968094766</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"15 01 25\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1736973702252</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1736973702252</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"2\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"15 01 25\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"15 01 25\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 96f29dcf11f890a14dddf6ad37405c56b22326e8)
++++ b/.idea/workspace.xml	(date 1737898103484)
+@@ -4,95 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="a1984921-d784-45b3-9cb8-4a1a7677751f" name="Changes" comment="15 01 25">
+-      <change afterPath="$PROJECT_DIR$/ege08/169.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege08/170.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege08/171.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege08/172.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege08/173.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege08/174.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege08/175.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege08/176.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege08/177.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege08/178.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege08/179.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege08/180.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege08/181.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege08/182.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege08/186.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege08/187.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege08/188.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege08/189.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege08/190.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege08/191.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege08/192.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege13/111.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege13/112.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege13/113.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege13/114.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege13/115.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege13/116.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege13/117.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege13/118.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege13/119.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege13/120.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege13/121.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege13/122.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege13/123.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege13/124.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege13/125.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege13/126.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege13/127.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege13/128.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege13/129.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege13/130.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege13/131.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege13/133.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege13/134.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege13/136.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege13/137.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege13/138.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege13/139.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege13/140.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege13/141.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege13/142.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege13/143.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege13/144.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege13/145.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege13/146.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege13/147.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege13/148.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege13/149.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege13/150.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege13/151.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege13/152.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege13/153.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege19-21/10.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege19-21/12.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege19-21/13.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege19-21/14.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege19-21/15.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege19-21/16.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege19-21/17.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege19-21/18.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege19-21/19.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege19-21/20.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege19-21/3.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege19-21/4.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege19-21/5.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege19-21/6.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege19-21/7.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege19-21/8.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ege19-21/9.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/vinokurova.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vinokurova1.iml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/ege08/168.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege08/168.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/ege13/132.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege13/132.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/ege19-21/2.xls" beforeDir="false" afterPath="$PROJECT_DIR$/ege19-21/2.xls" afterDir="false" />
+-    </list>
++    <list default="true" id="a1984921-d784-45b3-9cb8-4a1a7677751f" name="Changes" comment="15 01 25" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -132,138 +44,139 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "Python.10.executor": "Run",
+-    "Python.100.executor": "Run",
+-    "Python.101.executor": "Run",
+-    "Python.102.executor": "Run",
+-    "Python.103.executor": "Run",
+-    "Python.104.executor": "Run",
+-    "Python.105.executor": "Run",
+-    "Python.106.executor": "Run",
+-    "Python.107.executor": "Run",
+-    "Python.108.executor": "Run",
+-    "Python.109.executor": "Run",
+-    "Python.110.executor": "Run",
+-    "Python.111.executor": "Run",
+-    "Python.112.executor": "Run",
+-    "Python.113.executor": "Run",
+-    "Python.114.executor": "Run",
+-    "Python.115.executor": "Run",
+-    "Python.116.executor": "Run",
+-    "Python.117.executor": "Run",
+-    "Python.118.executor": "Run",
+-    "Python.119.executor": "Run",
+-    "Python.12.executor": "Run",
+-    "Python.120.executor": "Run",
+-    "Python.121.executor": "Run",
+-    "Python.122.executor": "Run",
+-    "Python.123.executor": "Run",
+-    "Python.124.executor": "Run",
+-    "Python.125.executor": "Run",
+-    "Python.126.executor": "Run",
+-    "Python.127.executor": "Run",
+-    "Python.128.executor": "Run",
+-    "Python.129.executor": "Run",
+-    "Python.13.executor": "Run",
+-    "Python.130.executor": "Run",
+-    "Python.131.executor": "Run",
+-    "Python.132.executor": "Run",
+-    "Python.133.executor": "Run",
+-    "Python.134.executor": "Run",
+-    "Python.135.executor": "Run",
+-    "Python.136.executor": "Run",
+-    "Python.137.executor": "Run",
+-    "Python.138.executor": "Run",
+-    "Python.139.executor": "Run",
+-    "Python.14.executor": "Run",
+-    "Python.140.executor": "Run",
+-    "Python.141.executor": "Run",
+-    "Python.142.executor": "Run",
+-    "Python.143.executor": "Run",
+-    "Python.144.executor": "Run",
+-    "Python.145.executor": "Run",
+-    "Python.146.executor": "Run",
+-    "Python.147.executor": "Run",
+-    "Python.148.executor": "Run",
+-    "Python.149.executor": "Run",
+-    "Python.15.executor": "Run",
+-    "Python.150.executor": "Run",
+-    "Python.151.executor": "Run",
+-    "Python.152.executor": "Run",
+-    "Python.153.executor": "Run",
+-    "Python.16.executor": "Run",
+-    "Python.168.executor": "Run",
+-    "Python.169.executor": "Run",
+-    "Python.17.executor": "Run",
+-    "Python.170.executor": "Run",
+-    "Python.171.executor": "Run",
+-    "Python.172.executor": "Run",
+-    "Python.173.executor": "Run",
+-    "Python.174.executor": "Run",
+-    "Python.175.executor": "Run",
+-    "Python.1766.executor": "Run",
+-    "Python.177.executor": "Run",
+-    "Python.178.executor": "Run",
+-    "Python.179.executor": "Run",
+-    "Python.18.executor": "Run",
+-    "Python.180.executor": "Run",
+-    "Python.181.executor": "Run",
+-    "Python.182.executor": "Run",
+-    "Python.186.executor": "Run",
+-    "Python.187.executor": "Run",
+-    "Python.188.executor": "Run",
+-    "Python.189.executor": "Run",
+-    "Python.19.executor": "Run",
+-    "Python.190.executor": "Run",
+-    "Python.191.executor": "Run",
+-    "Python.29.executor": "Run",
+-    "Python.3.executor": "Run",
+-    "Python.31.executor": "Run",
+-    "Python.4.executor": "Run",
+-    "Python.40.executor": "Run",
+-    "Python.5.executor": "Run",
+-    "Python.53.executor": "Run",
+-    "Python.6.executor": "Run",
+-    "Python.7.executor": "Run",
+-    "Python.70.executor": "Run",
+-    "Python.71.executor": "Run",
+-    "Python.72.executor": "Run",
+-    "Python.73.executor": "Run",
+-    "Python.74.executor": "Run",
+-    "Python.75.executor": "Run",
+-    "Python.76.executor": "Run",
+-    "Python.77.executor": "Run",
+-    "Python.78.executor": "Run",
+-    "Python.79.executor": "Run",
+-    "Python.8.executor": "Run",
+-    "Python.80.executor": "Run",
+-    "Python.81.executor": "Run",
+-    "Python.82.executor": "Run",
+-    "Python.83.executor": "Run",
+-    "Python.84.executor": "Run",
+-    "Python.85.executor": "Run",
+-    "Python.86.executor": "Run",
+-    "Python.87.executor": "Run",
+-    "Python.88.executor": "Run",
+-    "Python.89.executor": "Run",
+-    "Python.9.executor": "Run",
+-    "Python.90.executor": "Run",
+-    "Python.91.executor": "Run",
+-    "Python.92.executor": "Run",
+-    "Python.93.executor": "Run",
+-    "Python.94.executor": "Run",
+-    "Python.95.executor": "Run",
+-    "Python.96.executor": "Run",
+-    "Python.97.executor": "Run",
+-    "Python.98.executor": "Run",
+-    "Python.99.executor": "Run",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+-    "git-widget-placeholder": "master"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;Python.10.executor&quot;: &quot;Run&quot;,
++    &quot;Python.100.executor&quot;: &quot;Run&quot;,
++    &quot;Python.101.executor&quot;: &quot;Run&quot;,
++    &quot;Python.102.executor&quot;: &quot;Run&quot;,
++    &quot;Python.103.executor&quot;: &quot;Run&quot;,
++    &quot;Python.104.executor&quot;: &quot;Run&quot;,
++    &quot;Python.105.executor&quot;: &quot;Run&quot;,
++    &quot;Python.106.executor&quot;: &quot;Run&quot;,
++    &quot;Python.107.executor&quot;: &quot;Run&quot;,
++    &quot;Python.108.executor&quot;: &quot;Run&quot;,
++    &quot;Python.109.executor&quot;: &quot;Run&quot;,
++    &quot;Python.110.executor&quot;: &quot;Run&quot;,
++    &quot;Python.111.executor&quot;: &quot;Run&quot;,
++    &quot;Python.112.executor&quot;: &quot;Run&quot;,
++    &quot;Python.113.executor&quot;: &quot;Run&quot;,
++    &quot;Python.114.executor&quot;: &quot;Run&quot;,
++    &quot;Python.115.executor&quot;: &quot;Run&quot;,
++    &quot;Python.116.executor&quot;: &quot;Run&quot;,
++    &quot;Python.117.executor&quot;: &quot;Run&quot;,
++    &quot;Python.118.executor&quot;: &quot;Run&quot;,
++    &quot;Python.119.executor&quot;: &quot;Run&quot;,
++    &quot;Python.12.executor&quot;: &quot;Run&quot;,
++    &quot;Python.120.executor&quot;: &quot;Run&quot;,
++    &quot;Python.121.executor&quot;: &quot;Run&quot;,
++    &quot;Python.122.executor&quot;: &quot;Run&quot;,
++    &quot;Python.123.executor&quot;: &quot;Run&quot;,
++    &quot;Python.124.executor&quot;: &quot;Run&quot;,
++    &quot;Python.125.executor&quot;: &quot;Run&quot;,
++    &quot;Python.126.executor&quot;: &quot;Run&quot;,
++    &quot;Python.127.executor&quot;: &quot;Run&quot;,
++    &quot;Python.128.executor&quot;: &quot;Run&quot;,
++    &quot;Python.129.executor&quot;: &quot;Run&quot;,
++    &quot;Python.13.executor&quot;: &quot;Run&quot;,
++    &quot;Python.130.executor&quot;: &quot;Run&quot;,
++    &quot;Python.131.executor&quot;: &quot;Run&quot;,
++    &quot;Python.132.executor&quot;: &quot;Run&quot;,
++    &quot;Python.133.executor&quot;: &quot;Run&quot;,
++    &quot;Python.134.executor&quot;: &quot;Run&quot;,
++    &quot;Python.135.executor&quot;: &quot;Run&quot;,
++    &quot;Python.136.executor&quot;: &quot;Run&quot;,
++    &quot;Python.137.executor&quot;: &quot;Run&quot;,
++    &quot;Python.138.executor&quot;: &quot;Run&quot;,
++    &quot;Python.139.executor&quot;: &quot;Run&quot;,
++    &quot;Python.14.executor&quot;: &quot;Run&quot;,
++    &quot;Python.140.executor&quot;: &quot;Run&quot;,
++    &quot;Python.141.executor&quot;: &quot;Run&quot;,
++    &quot;Python.142.executor&quot;: &quot;Run&quot;,
++    &quot;Python.143.executor&quot;: &quot;Run&quot;,
++    &quot;Python.144.executor&quot;: &quot;Run&quot;,
++    &quot;Python.145.executor&quot;: &quot;Run&quot;,
++    &quot;Python.146.executor&quot;: &quot;Run&quot;,
++    &quot;Python.147.executor&quot;: &quot;Run&quot;,
++    &quot;Python.148.executor&quot;: &quot;Run&quot;,
++    &quot;Python.149.executor&quot;: &quot;Run&quot;,
++    &quot;Python.15.executor&quot;: &quot;Run&quot;,
++    &quot;Python.150.executor&quot;: &quot;Run&quot;,
++    &quot;Python.151.executor&quot;: &quot;Run&quot;,
++    &quot;Python.152.executor&quot;: &quot;Run&quot;,
++    &quot;Python.153.executor&quot;: &quot;Run&quot;,
++    &quot;Python.16.executor&quot;: &quot;Run&quot;,
++    &quot;Python.168.executor&quot;: &quot;Run&quot;,
++    &quot;Python.169.executor&quot;: &quot;Run&quot;,
++    &quot;Python.17.executor&quot;: &quot;Run&quot;,
++    &quot;Python.170.executor&quot;: &quot;Run&quot;,
++    &quot;Python.171.executor&quot;: &quot;Run&quot;,
++    &quot;Python.172.executor&quot;: &quot;Run&quot;,
++    &quot;Python.173.executor&quot;: &quot;Run&quot;,
++    &quot;Python.174.executor&quot;: &quot;Run&quot;,
++    &quot;Python.175.executor&quot;: &quot;Run&quot;,
++    &quot;Python.1766.executor&quot;: &quot;Run&quot;,
++    &quot;Python.177.executor&quot;: &quot;Run&quot;,
++    &quot;Python.178.executor&quot;: &quot;Run&quot;,
++    &quot;Python.179.executor&quot;: &quot;Run&quot;,
++    &quot;Python.18.executor&quot;: &quot;Run&quot;,
++    &quot;Python.180.executor&quot;: &quot;Run&quot;,
++    &quot;Python.181.executor&quot;: &quot;Run&quot;,
++    &quot;Python.182.executor&quot;: &quot;Run&quot;,
++    &quot;Python.186.executor&quot;: &quot;Run&quot;,
++    &quot;Python.187.executor&quot;: &quot;Run&quot;,
++    &quot;Python.188.executor&quot;: &quot;Run&quot;,
++    &quot;Python.189.executor&quot;: &quot;Run&quot;,
++    &quot;Python.19.executor&quot;: &quot;Run&quot;,
++    &quot;Python.190.executor&quot;: &quot;Run&quot;,
++    &quot;Python.191.executor&quot;: &quot;Run&quot;,
++    &quot;Python.20.executor&quot;: &quot;Run&quot;,
++    &quot;Python.29.executor&quot;: &quot;Run&quot;,
++    &quot;Python.3.executor&quot;: &quot;Run&quot;,
++    &quot;Python.31.executor&quot;: &quot;Run&quot;,
++    &quot;Python.4.executor&quot;: &quot;Run&quot;,
++    &quot;Python.40.executor&quot;: &quot;Run&quot;,
++    &quot;Python.5.executor&quot;: &quot;Run&quot;,
++    &quot;Python.53.executor&quot;: &quot;Run&quot;,
++    &quot;Python.6.executor&quot;: &quot;Run&quot;,
++    &quot;Python.7.executor&quot;: &quot;Run&quot;,
++    &quot;Python.70.executor&quot;: &quot;Run&quot;,
++    &quot;Python.71.executor&quot;: &quot;Run&quot;,
++    &quot;Python.72.executor&quot;: &quot;Run&quot;,
++    &quot;Python.73.executor&quot;: &quot;Run&quot;,
++    &quot;Python.74.executor&quot;: &quot;Run&quot;,
++    &quot;Python.75.executor&quot;: &quot;Run&quot;,
++    &quot;Python.76.executor&quot;: &quot;Run&quot;,
++    &quot;Python.77.executor&quot;: &quot;Run&quot;,
++    &quot;Python.78.executor&quot;: &quot;Run&quot;,
++    &quot;Python.79.executor&quot;: &quot;Run&quot;,
++    &quot;Python.8.executor&quot;: &quot;Run&quot;,
++    &quot;Python.80.executor&quot;: &quot;Run&quot;,
++    &quot;Python.81.executor&quot;: &quot;Run&quot;,
++    &quot;Python.82.executor&quot;: &quot;Run&quot;,
++    &quot;Python.83.executor&quot;: &quot;Run&quot;,
++    &quot;Python.84.executor&quot;: &quot;Run&quot;,
++    &quot;Python.85.executor&quot;: &quot;Run&quot;,
++    &quot;Python.86.executor&quot;: &quot;Run&quot;,
++    &quot;Python.87.executor&quot;: &quot;Run&quot;,
++    &quot;Python.88.executor&quot;: &quot;Run&quot;,
++    &quot;Python.89.executor&quot;: &quot;Run&quot;,
++    &quot;Python.9.executor&quot;: &quot;Run&quot;,
++    &quot;Python.90.executor&quot;: &quot;Run&quot;,
++    &quot;Python.91.executor&quot;: &quot;Run&quot;,
++    &quot;Python.92.executor&quot;: &quot;Run&quot;,
++    &quot;Python.93.executor&quot;: &quot;Run&quot;,
++    &quot;Python.94.executor&quot;: &quot;Run&quot;,
++    &quot;Python.95.executor&quot;: &quot;Run&quot;,
++    &quot;Python.96.executor&quot;: &quot;Run&quot;,
++    &quot;Python.97.executor&quot;: &quot;Run&quot;,
++    &quot;Python.98.executor&quot;: &quot;Run&quot;,
++    &quot;Python.99.executor&quot;: &quot;Run&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RunManager" selected="Python.20">
+     <configuration name="16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+       <module name="vinokurova1" />
+@@ -409,8 +322,27 @@
+       <option name="project" value="LOCAL" />
+       <updated>1736973702252</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL-00002" summary="15 01 25">
++      <option name="closed" value="true" />
++      <created>1737578730077</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1737578730077</updated>
++    </task>
++    <option name="localTasksCounter" value="3" />
+     <servers />
++  </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="15 01 25" />
