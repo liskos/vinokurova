@@ -2,8 +2,8 @@ def f(x):
     a = [x + 2, x * 3, x + 3]
     return a
 
-a = [" "] * 500
-for i in range(500):
+a = [" "] * 1000
+for i in range(1000):
     if i >= 313:
         a[i] = "0"
 
@@ -20,6 +20,6 @@ for i in range(313):
     if a[i] == " " and all(a[x] in "13" for x in f(i)):
             a[i] = "4"
 
-
-for i in range(1, 500):
-    print(i, a[i])
+print([i for i in range(1000) if a[i] == "2"])
+print([i for i in range(1000) if a[i] == "3"])
+print([i for i in range(1000) if a[i] == "4"])
