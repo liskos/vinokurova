@@ -1,0 +1,258 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"a1984921-d784-45b3-9cb8-4a1a7677751f\" name=\"Changes\" comment=\"15 01 25\">\r\n      <change afterPath=\"$PROJECT_DIR$/варианты/шастин/5/10.doc\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/варианты/шастин/5/12.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/варианты/шастин/5/16.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/варианты/шастин/5/17.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/варианты/шастин/5/17.txt\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/варианты/шастин/5/18.xlsx\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/варианты/шастин/5/19-21.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/варианты/шастин/5/22.xlsx\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/варианты/шастин/5/3.xls\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/варианты/шастин/5/5.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/варианты/шастин/5/8.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/варианты/шастин/5/итог.png\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/misc.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/misc.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/vinokurova1.iml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/vinokurova1.iml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/варианты/шастин/5/2.png\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/варианты/шастин/5/2.png\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/варианты/шастин/5/2.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/варианты/шастин/5/2.py\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;ksenia1036&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/liskos/vinokurova.git&quot;,\r\n    &quot;accountId&quot;: &quot;254593f8-8282-453d-adb0-7cbb6281744f&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;customColor&quot;: &quot;3dbf0bff&quot;,\r\n  &quot;associatedIndex&quot;: 5\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2rg5ti6UI7UYHmurBAZCgm8rPQP\" />\r\n  <component name=\"ProjectLevelVcsManager\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Python.10.executor\": \"Run\",\r\n    \"Python.100.executor\": \"Run\",\r\n    \"Python.101.executor\": \"Run\",\r\n    \"Python.102.executor\": \"Run\",\r\n    \"Python.103.executor\": \"Run\",\r\n    \"Python.104.executor\": \"Run\",\r\n    \"Python.105.executor\": \"Run\",\r\n    \"Python.106.executor\": \"Run\",\r\n    \"Python.107.executor\": \"Run\",\r\n    \"Python.108.executor\": \"Run\",\r\n    \"Python.109.executor\": \"Run\",\r\n    \"Python.110.executor\": \"Run\",\r\n    \"Python.111.executor\": \"Run\",\r\n    \"Python.112.executor\": \"Run\",\r\n    \"Python.113.executor\": \"Run\",\r\n    \"Python.114.executor\": \"Run\",\r\n    \"Python.115.executor\": \"Run\",\r\n    \"Python.116.executor\": \"Run\",\r\n    \"Python.117.executor\": \"Run\",\r\n    \"Python.118.executor\": \"Run\",\r\n    \"Python.119.executor\": \"Run\",\r\n    \"Python.12.executor\": \"Run\",\r\n    \"Python.120.executor\": \"Run\",\r\n    \"Python.121.executor\": \"Run\",\r\n    \"Python.122.executor\": \"Run\",\r\n    \"Python.123.executor\": \"Run\",\r\n    \"Python.124.executor\": \"Run\",\r\n    \"Python.125.executor\": \"Run\",\r\n    \"Python.126.executor\": \"Run\",\r\n    \"Python.127.executor\": \"Run\",\r\n    \"Python.128.executor\": \"Run\",\r\n    \"Python.129.executor\": \"Run\",\r\n    \"Python.13.executor\": \"Run\",\r\n    \"Python.130.executor\": \"Run\",\r\n    \"Python.131.executor\": \"Run\",\r\n    \"Python.132.executor\": \"Run\",\r\n    \"Python.133.executor\": \"Run\",\r\n    \"Python.134.executor\": \"Run\",\r\n    \"Python.135.executor\": \"Run\",\r\n    \"Python.136.executor\": \"Run\",\r\n    \"Python.137.executor\": \"Run\",\r\n    \"Python.138.executor\": \"Run\",\r\n    \"Python.139.executor\": \"Run\",\r\n    \"Python.14.executor\": \"Run\",\r\n    \"Python.140.executor\": \"Run\",\r\n    \"Python.141.executor\": \"Run\",\r\n    \"Python.142.executor\": \"Run\",\r\n    \"Python.143.executor\": \"Run\",\r\n    \"Python.144.executor\": \"Run\",\r\n    \"Python.145.executor\": \"Run\",\r\n    \"Python.146.executor\": \"Run\",\r\n    \"Python.147.executor\": \"Run\",\r\n    \"Python.148.executor\": \"Run\",\r\n    \"Python.149.executor\": \"Run\",\r\n    \"Python.15.executor\": \"Run\",\r\n    \"Python.150.executor\": \"Run\",\r\n    \"Python.151.executor\": \"Run\",\r\n    \"Python.152.executor\": \"Run\",\r\n    \"Python.153.executor\": \"Run\",\r\n    \"Python.16.executor\": \"Run\",\r\n    \"Python.168.executor\": \"Run\",\r\n    \"Python.169.executor\": \"Run\",\r\n    \"Python.17.executor\": \"Run\",\r\n    \"Python.170.executor\": \"Run\",\r\n    \"Python.171.executor\": \"Run\",\r\n    \"Python.172.executor\": \"Run\",\r\n    \"Python.173.executor\": \"Run\",\r\n    \"Python.174.executor\": \"Run\",\r\n    \"Python.175.executor\": \"Run\",\r\n    \"Python.1766.executor\": \"Run\",\r\n    \"Python.177.executor\": \"Run\",\r\n    \"Python.178.executor\": \"Run\",\r\n    \"Python.179.executor\": \"Run\",\r\n    \"Python.18.executor\": \"Run\",\r\n    \"Python.180.executor\": \"Run\",\r\n    \"Python.181.executor\": \"Run\",\r\n    \"Python.182.executor\": \"Run\",\r\n    \"Python.186.executor\": \"Run\",\r\n    \"Python.187.executor\": \"Run\",\r\n    \"Python.188.executor\": \"Run\",\r\n    \"Python.189.executor\": \"Run\",\r\n    \"Python.19-21.executor\": \"Run\",\r\n    \"Python.19.executor\": \"Run\",\r\n    \"Python.190.executor\": \"Run\",\r\n    \"Python.191.executor\": \"Run\",\r\n    \"Python.2.executor\": \"Run\",\r\n    \"Python.29.executor\": \"Run\",\r\n    \"Python.3.executor\": \"Run\",\r\n    \"Python.31.executor\": \"Run\",\r\n    \"Python.38.executor\": \"Run\",\r\n    \"Python.4.executor\": \"Run\",\r\n    \"Python.40.executor\": \"Run\",\r\n    \"Python.5.executor\": \"Run\",\r\n    \"Python.53.executor\": \"Run\",\r\n    \"Python.6.executor\": \"Run\",\r\n    \"Python.7.executor\": \"Run\",\r\n    \"Python.70.executor\": \"Run\",\r\n    \"Python.71.executor\": \"Run\",\r\n    \"Python.72.executor\": \"Run\",\r\n    \"Python.73.executor\": \"Run\",\r\n    \"Python.74.executor\": \"Run\",\r\n    \"Python.75.executor\": \"Run\",\r\n    \"Python.76.executor\": \"Run\",\r\n    \"Python.77.executor\": \"Run\",\r\n    \"Python.78.executor\": \"Run\",\r\n    \"Python.79.executor\": \"Run\",\r\n    \"Python.8.executor\": \"Run\",\r\n    \"Python.80.executor\": \"Run\",\r\n    \"Python.81.executor\": \"Run\",\r\n    \"Python.82.executor\": \"Run\",\r\n    \"Python.83.executor\": \"Run\",\r\n    \"Python.84.executor\": \"Run\",\r\n    \"Python.85.executor\": \"Run\",\r\n    \"Python.86.executor\": \"Run\",\r\n    \"Python.87.executor\": \"Run\",\r\n    \"Python.88.executor\": \"Run\",\r\n    \"Python.89.executor\": \"Run\",\r\n    \"Python.9.executor\": \"Run\",\r\n    \"Python.90.executor\": \"Run\",\r\n    \"Python.91.executor\": \"Run\",\r\n    \"Python.92.executor\": \"Run\",\r\n    \"Python.93.executor\": \"Run\",\r\n    \"Python.94.executor\": \"Run\",\r\n    \"Python.95.executor\": \"Run\",\r\n    \"Python.96.executor\": \"Run\",\r\n    \"Python.97.executor\": \"Run\",\r\n    \"Python.98.executor\": \"Run\",\r\n    \"Python.99.executor\": \"Run\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"git-widget-placeholder\": \"master\",\r\n    \"last_opened_file_path\": \"C:/Users/kseni/PycharmProjects/vinokurova1/варианты/шастин/5\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\kseni\\PycharmProjects\\vinokurova1\\варианты\\шастин\\5\" />\r\n      <recent name=\"C:\\Users\\Ученик\\PycharmProjects\\vinokurova\\варианты\\шастин\\6\" />\r\n    </key>\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\kseni\\PycharmProjects\\vinokurova1\\варианты\\шастин\\5\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Python.19-21\">\r\n    <configuration name=\"16\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"vinokurova1\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/варианты/шастин/5\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/варианты/шастин/5/16.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"19-21\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"vinokurova1\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/варианты/шастин/5\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/варианты/шастин/5/19-21.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"38\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"vinokurova1\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/ege19-21\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/ege19-21/38.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"5\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"vinokurova1\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/варианты/шастин/5\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/варианты/шастин/5/5.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"8\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"vinokurova1\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/варианты/шастин/5\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/варианты/шастин/5/8.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Python.19-21\" />\r\n        <item itemvalue=\"Python.38\" />\r\n        <item itemvalue=\"Python.16\" />\r\n        <item itemvalue=\"Python.8\" />\r\n        <item itemvalue=\"Python.5\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-98f27166c754-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.21829.153\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"a1984921-d784-45b3-9cb8-4a1a7677751f\" name=\"Changes\" comment=\"\" />\r\n      <created>1736968094766</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1736968094766</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"15 01 25\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1736973702252</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1736973702252</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"15 01 25\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1737631795962</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1737631795962</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"3\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"8\" />\r\n    <MESSAGE value=\"15 01 25\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"15 01 25\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 557c2b4e5c883ea56c6c91eb0c42e8b3d81a6d99)
++++ b/.idea/workspace.xml	(date 1738187754864)
+@@ -5,23 +5,33 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="a1984921-d784-45b3-9cb8-4a1a7677751f" name="Changes" comment="15 01 25">
+-      <change afterPath="$PROJECT_DIR$/варианты/шастин/5/10.doc" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/варианты/шастин/5/12.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/варианты/шастин/5/16.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/варианты/шастин/5/17.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/варианты/шастин/5/17.txt" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/варианты/шастин/5/18.xlsx" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/варианты/шастин/5/19-21.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/варианты/шастин/5/22.xlsx" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/варианты/шастин/5/3.xls" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/варианты/шастин/5/5.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/варианты/шастин/5/8.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/варианты/шастин/5/итог.png" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/vinokurova1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vinokurova1.iml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/ege08/194.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/ege13/154.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/ege13/155.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/ege13/156.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/ege13/157.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/ege13/158.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/ege13/159.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/ege19-21/21.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/ege19-21/22.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/ege19-21/23.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/ege19-21/24.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/ege19-21/25.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/ege19-21/26.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/ege19-21/27.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/ege19-21/28.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/ege19-21/29.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/ege19-21/30.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/ege19-21/31.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/ege19-21/32.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/ege19-21/33.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/ege19-21/34.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/ege19-21/35.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/ege19-21/36.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/ege19-21/37.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/ege19-21/39.py" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/варианты/шастин/5/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/варианты/шастин/5/2.png" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/варианты/шастин/5/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/варианты/шастин/5/2.py" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/ege08/192.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege08/192.py" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -56,6 +66,7 @@
+ }</component>
+   <component name="ProjectId" id="2rg5ti6UI7UYHmurBAZCgm8rPQP" />
+   <component name="ProjectLevelVcsManager">
++    <OptionsSetting value="false" id="Update" />
+     <ConfirmationsSetting value="2" id="Add" />
+   </component>
+   <component name="ProjectViewState">
+@@ -123,6 +134,11 @@
+     "Python.151.executor": "Run",
+     "Python.152.executor": "Run",
+     "Python.153.executor": "Run",
++    "Python.154.executor": "Run",
++    "Python.155.executor": "Run",
++    "Python.156.executor": "Run",
++    "Python.157.executor": "Run",
++    "Python.158.executor": "Run",
+     "Python.16.executor": "Run",
+     "Python.168.executor": "Run",
+     "Python.169.executor": "Run",
+@@ -149,13 +165,31 @@
+     "Python.19.executor": "Run",
+     "Python.190.executor": "Run",
+     "Python.191.executor": "Run",
++    "Python.192.executor": "Run",
+     "Python.2.executor": "Run",
++    "Python.21.executor": "Run",
++    "Python.22.executor": "Run",
++    "Python.23.executor": "Run",
++    "Python.24.executor": "Run",
++    "Python.25.executor": "Run",
++    "Python.26.executor": "Run",
++    "Python.27.executor": "Run",
++    "Python.28.executor": "Run",
+     "Python.29.executor": "Run",
+     "Python.3.executor": "Run",
++    "Python.30.executor": "Run",
+     "Python.31.executor": "Run",
++    "Python.32.executor": "Run",
++    "Python.33.executor": "Run",
++    "Python.34.executor": "Run",
++    "Python.35.executor": "Run",
++    "Python.36.executor": "Run",
++    "Python.37.executor": "Run",
+     "Python.38.executor": "Run",
++    "Python.39.executor": "Run",
+     "Python.4.executor": "Run",
+     "Python.40.executor": "Run",
++    "Python.46.executor": "Run",
+     "Python.5.executor": "Run",
+     "Python.53.executor": "Run",
+     "Python.6.executor": "Run",
+@@ -207,8 +241,8 @@
+       <recent name="C:\Users\kseni\PycharmProjects\vinokurova1\варианты\шастин\5" />
+     </key>
+   </component>
+-  <component name="RunManager" selected="Python.19-21">
+-    <configuration name="16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++  <component name="RunManager" selected="Python.39">
++    <configuration name="35" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+       <module name="vinokurova1" />
+       <option name="ENV_FILES" value="" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+@@ -217,11 +251,11 @@
+         <env name="PYTHONUNBUFFERED" value="1" />
+       </envs>
+       <option name="SDK_HOME" value="" />
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/варианты/шастин/5" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ege19-21" />
+       <option name="IS_MODULE_SDK" value="true" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/варианты/шастин/5/16.py" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ege19-21/35.py" />
+       <option name="PARAMETERS" value="" />
+       <option name="SHOW_COMMAND_LINE" value="false" />
+       <option name="EMULATE_TERMINAL" value="false" />
+@@ -230,7 +264,7 @@
+       <option name="INPUT_FILE" value="" />
+       <method v="2" />
+     </configuration>
+-    <configuration name="19-21" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++    <configuration name="36" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+       <module name="vinokurova1" />
+       <option name="ENV_FILES" value="" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+@@ -239,11 +273,11 @@
+         <env name="PYTHONUNBUFFERED" value="1" />
+       </envs>
+       <option name="SDK_HOME" value="" />
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/варианты/шастин/5" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ege19-21" />
+       <option name="IS_MODULE_SDK" value="true" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/варианты/шастин/5/19-21.py" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ege19-21/36.py" />
+       <option name="PARAMETERS" value="" />
+       <option name="SHOW_COMMAND_LINE" value="false" />
+       <option name="EMULATE_TERMINAL" value="false" />
+@@ -252,7 +286,7 @@
+       <option name="INPUT_FILE" value="" />
+       <method v="2" />
+     </configuration>
+-    <configuration name="38" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++    <configuration name="37" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+       <module name="vinokurova1" />
+       <option name="ENV_FILES" value="" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+@@ -265,7 +299,7 @@
+       <option name="IS_MODULE_SDK" value="true" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ege19-21/38.py" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ege19-21/37.py" />
+       <option name="PARAMETERS" value="" />
+       <option name="SHOW_COMMAND_LINE" value="false" />
+       <option name="EMULATE_TERMINAL" value="false" />
+@@ -274,7 +308,7 @@
+       <option name="INPUT_FILE" value="" />
+       <method v="2" />
+     </configuration>
+-    <configuration name="5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++    <configuration name="38" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+       <module name="vinokurova1" />
+       <option name="ENV_FILES" value="" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+@@ -283,11 +317,11 @@
+         <env name="PYTHONUNBUFFERED" value="1" />
+       </envs>
+       <option name="SDK_HOME" value="" />
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/варианты/шастин/5" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ege19-21" />
+       <option name="IS_MODULE_SDK" value="true" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/варианты/шастин/5/5.py" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ege19-21/38.py" />
+       <option name="PARAMETERS" value="" />
+       <option name="SHOW_COMMAND_LINE" value="false" />
+       <option name="EMULATE_TERMINAL" value="false" />
+@@ -296,7 +330,7 @@
+       <option name="INPUT_FILE" value="" />
+       <method v="2" />
+     </configuration>
+-    <configuration name="8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++    <configuration name="39" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+       <module name="vinokurova1" />
+       <option name="ENV_FILES" value="" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+@@ -305,11 +339,11 @@
+         <env name="PYTHONUNBUFFERED" value="1" />
+       </envs>
+       <option name="SDK_HOME" value="" />
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/варианты/шастин/5" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ege19-21" />
+       <option name="IS_MODULE_SDK" value="true" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/варианты/шастин/5/8.py" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ege19-21/39.py" />
+       <option name="PARAMETERS" value="" />
+       <option name="SHOW_COMMAND_LINE" value="false" />
+       <option name="EMULATE_TERMINAL" value="false" />
+@@ -320,11 +354,11 @@
+     </configuration>
+     <recent_temporary>
+       <list>
+-        <item itemvalue="Python.19-21" />
++        <item itemvalue="Python.39" />
+         <item itemvalue="Python.38" />
+-        <item itemvalue="Python.16" />
+-        <item itemvalue="Python.8" />
+-        <item itemvalue="Python.5" />
++        <item itemvalue="Python.37" />
++        <item itemvalue="Python.36" />
++        <item itemvalue="Python.35" />
+       </list>
+     </recent_temporary>
+   </component>
+@@ -362,6 +396,17 @@
+     </task>
+     <option name="localTasksCounter" value="3" />
+     <servers />
++  </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="8" />
