@@ -5,22 +5,59 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1984921-d784-45b3-9cb8-4a1a7677751f" name="Changes" comment="15 01 25">
-      <change afterPath="$PROJECT_DIR$/варианты/шастин/6/10.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/варианты/шастин/6/12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/варианты/шастин/6/13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/варианты/шастин/6/16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/варианты/шастин/6/18.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/варианты/шастин/6/19-21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/варианты/шастин/6/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/варианты/шастин/6/22.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/варианты/шастин/6/23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/варианты/шастин/6/3.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/варианты/шастин/6/5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/варианты/шастин/6/9.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/варианты/шастин/6/итог.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vinokurova1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vinokurova1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/варианты/шастин/7/10.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/варианты/шастин/7/12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/варианты/шастин/7/13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/варианты/шастин/7/14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/варианты/шастин/7/15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/варианты/шастин/7/16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/варианты/шастин/7/17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/варианты/шастин/7/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/варианты/шастин/7/18.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/варианты/шастин/7/19-21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/варианты/шастин/7/22.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/варианты/шастин/7/23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/варианты/шастин/7/8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/варианты/шастин/7/9.xls" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ege19-21/мацепуро и володченко/Безымянный.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ege19-21/мацепуро и володченко/Панель.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ege19-21/мацепуро и володченко/Практикум_7кл/100.rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ege19-21/мацепуро и володченко/Практикум_7кл/mamont.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ege19-21/мацепуро и володченко/Практикум_7кл/Акробат.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ege19-21/мацепуро и володченко/Практикум_7кл/Введение.rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ege19-21/мацепуро и володченко/Практикум_7кл/Винчестер.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ege19-21/мацепуро и володченко/Практикум_7кл/Вставка.rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ege19-21/мацепуро и володченко/Практикум_7кл/Второе поколение ЭВМ.rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ege19-21/мацепуро и володченко/Практикум_7кл/Дискета.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ege19-21/мацепуро и володченко/Практикум_7кл/Заключение.rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ege19-21/мацепуро и володченко/Практикум_7кл/Замена.rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ege19-21/мацепуро и володченко/Практикум_7кл/Начало эпохи ЭВМ.rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ege19-21/мацепуро и володченко/Практикум_7кл/Панель.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ege19-21/мацепуро и володченко/Практикум_7кл/Первое поколение ЭВМ.rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ege19-21/мацепуро и володченко/Практикум_7кл/Перемещение.rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ege19-21/мацепуро и володченко/Практикум_7кл/Сказка.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ege19-21/мацепуро и володченко/Практикум_7кл/Стрекоза.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ege19-21/мацепуро и володченко/Практикум_7кл/Строки.rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ege19-21/мацепуро и володченко/Практикум_7кл/Схема.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ege19-21/мацепуро и володченко/Практикум_7кл/Третье поколение ЭВМ создавалось на новой элементной базе.rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ege19-21/мацепуро и володченко/Практикум_7кл/Третье поколение ЭВМ.rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ege19-21/мацепуро и володченко/Практикум_7кл/Удаление.rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ege19-21/мацепуро и володченко/Практикум_7кл/Устройства.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ege19-21/мацепуро и володченко/Практикум_7кл/Флэшка.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ege19-21/мацепуро и володченко/Практикум_7кл/Цвет.rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ege19-21/мацепуро и володченко/Практикум_7кл/Четвёртое поколение ЭВМ.rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ege19-21/мацепуро и володченко/Практикум_7кл/Эффекты.rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ege19-21/мацепуро и володченко/Практикум_7кл/диск.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ege19-21/мацепуро и володченко/Практикум_7кл/мышь.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ege19-21/мацепуро и володченко/Практикум_7кл/оперативная память.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ege19-21/мацепуро и володченко/Практикум_7кл/поиск и замена.rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ege19-21/мацепуро и володченко/Сказка.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ege19-21/мацепуро и володченко/Стрекоза.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ege19-21/мацепуро и володченко/Устройства.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ege19-21/мацепуро и володченко/Устройства_ввода.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/варианты/шастин/7/3.xls" beforeDir="false" afterPath="$PROJECT_DIR$/варианты/шастин/7/3.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/варианты/шастин/7/5.py" beforeDir="false" afterPath="$PROJECT_DIR$/варианты/шастин/7/5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +83,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/liskos/vinokurova.git&quot;,
-    &quot;accountId&quot;: &quot;d643c857-20e0-47c7-85fd-582246ce93eb&quot;
+    &quot;accountId&quot;: &quot;254593f8-8282-453d-adb0-7cbb6281744f&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -200,11 +237,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/kseni/PycharmProjects/vinokurova1/варианты/шастин/6"
+    "last_opened_file_path": "C:/Users/kseni/PycharmProjects/vinokurova1/варианты/шастин/7"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kseni\PycharmProjects\vinokurova1\варианты\шастин\7" />
       <recent name="C:\Users\kseni\PycharmProjects\vinokurova1\варианты\шастин\6" />
       <recent name="C:\Users\kseni\PycharmProjects\vinokurova1\варианты\шастин\5" />
       <recent name="C:\Users\Ученик\PycharmProjects\vinokurova\варианты\шастин\6" />
@@ -215,6 +253,50 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.23">
+    <configuration name="14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="vinokurova1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/варианты/шастин/7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/варианты/шастин/7/14.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="vinokurova1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/варианты/шастин/7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/варианты/шастин/7/15.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="vinokurova1" />
       <option name="ENV_FILES" value="" />
@@ -224,33 +306,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/варианты/шастин/6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/варианты/шастин/7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/варианты/шастин/6/16.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="19-21 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="vinokurova1" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/варианты/шастин/4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/варианты/шастин/4/19-21.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/варианты/шастин/7/16.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -268,11 +328,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/варианты/шастин/6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/варианты/шастин/7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/варианты/шастин/6/19-21.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/варианты/шастин/7/19-21.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -290,33 +350,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/варианты/шастин/6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/варианты/шастин/7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/варианты/шастин/6/23.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="39" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="vinokurova1" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ege19-21" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ege19-21/39.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/варианты/шастин/7/23.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -329,16 +367,16 @@
       <list>
         <item itemvalue="Python.23" />
         <item itemvalue="Python.19-21" />
-        <item itemvalue="Python.19-21 (1)" />
-        <item itemvalue="Python.39" />
         <item itemvalue="Python.16" />
+        <item itemvalue="Python.15" />
+        <item itemvalue="Python.14" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
+        <option value="bundled-python-sdk-98f27166c754-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.21829.153" />
       </set>
     </attachedChunks>
   </component>
@@ -375,7 +413,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737963516378</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="15 01 25">
+      <option name="closed" value="true" />
+      <created>1738792098687</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1738792098687</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
