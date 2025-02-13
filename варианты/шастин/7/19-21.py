@@ -21,6 +21,6 @@ for i in range(665*665):
         a[i] = "4"
 
 
-print([i for i in range(1, 3000) if a[i] == "2"])
+print([i for i in range(1, 3000) if a[i] == "1"])
 print([i for i in range(1, 3000) if a[i] == "3"])
 print([i for i in range(1, 3000) if a[i] == "4"])
