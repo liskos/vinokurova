@@ -5,24 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1984921-d784-45b3-9cb8-4a1a7677751f" name="Changes" comment="15 01 25">
-      <change afterPath="$PROJECT_DIR$/варианты/шастин/8/10.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/варианты/шастин/8/12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/варианты/шастин/8/13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/варианты/шастин/8/14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/варианты/шастин/8/16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/варианты/шастин/8/18.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/варианты/шастин/8/19-21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/варианты/шастин/8/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/варианты/шастин/8/22.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/варианты/шастин/8/23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/варианты/шастин/8/3.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/варианты/шастин/8/5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/варианты/шастин/8/8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/варианты/шастин/8/9.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/варианты/шастин/8/итог.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/варианты/шастин/8/15.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vinokurova1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vinokurova1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/варианты/шастин/8/14.py" beforeDir="false" afterPath="$PROJECT_DIR$/варианты/шастин/8/14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/варианты/шастин/8/8.py" beforeDir="false" afterPath="$PROJECT_DIR$/варианты/шастин/8/8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/варианты/шастин/8/9.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/варианты/шастин/8/9.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,6 +98,7 @@
     "Python.137.executor": "Run",
     "Python.138.executor": "Run",
     "Python.139.executor": "Run",
+    "Python.14 (1).executor": "Run",
     "Python.14.executor": "Run",
     "Python.140.executor": "Run",
     "Python.141.executor": "Run",
@@ -177,6 +167,7 @@
     "Python.77.executor": "Run",
     "Python.78.executor": "Run",
     "Python.79.executor": "Run",
+    "Python.8 (1).executor": "Run",
     "Python.8.executor": "Run",
     "Python.80.executor": "Run",
     "Python.81.executor": "Run",
@@ -202,25 +193,23 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/kseni/PycharmProjects/vinokurova1/варианты/шастин/8"
+    "last_opened_file_path": "C:/Users/kseni/PycharmProjects/vinokurova1/варианты/шастин/7"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\kseni\PycharmProjects\vinokurova1\варианты\шастин\8" />
       <recent name="C:\Users\kseni\PycharmProjects\vinokurova1\варианты\шастин\7" />
       <recent name="C:\Users\kseni\PycharmProjects\vinokurova1\варианты\шастин\6" />
       <recent name="C:\Users\kseni\PycharmProjects\vinokurova1\варианты\шастин\5" />
       <recent name="C:\Users\Ученик\PycharmProjects\vinokurova\варианты\шастин\6" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\kseni\PycharmProjects\vinokurova1\варианты\шастин\8" />
       <recent name="C:\Users\kseni\PycharmProjects\vinokurova1\варианты\шастин\6" />
       <recent name="C:\Users\kseni\PycharmProjects\vinokurova1\варианты\шастин\5" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.23">
-    <configuration name="12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.15">
+    <configuration name="14 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="vinokurova1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -233,7 +222,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/варианты/шастин/8/12.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/варианты/шастин/8/14.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -242,7 +231,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="vinokurova1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -255,7 +244,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/варианты/шастин/8/13.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/варианты/шастин/8/15.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -264,7 +253,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="19-21" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="vinokurova1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -273,11 +262,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/варианты/шастин/8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/варианты/шастин/7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/варианты/шастин/8/16.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/варианты/шастин/7/19-21.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -295,11 +284,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/варианты/шастин/8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/варианты/шастин/7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/варианты/шастин/8/23.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/варианты/шастин/7/23.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -308,7 +297,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="8 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="vinokurova1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -332,11 +321,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.15" />
+        <item itemvalue="Python.14 (1)" />
+        <item itemvalue="Python.8 (1)" />
         <item itemvalue="Python.23" />
-        <item itemvalue="Python.16" />
-        <item itemvalue="Python.13" />
-        <item itemvalue="Python.12" />
-        <item itemvalue="Python.8" />
+        <item itemvalue="Python.19-21" />
       </list>
     </recent_temporary>
   </component>
