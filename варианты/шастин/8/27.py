@@ -12,10 +12,16 @@ def clasterization(data, r):
     return clasters
 
 def get_centroid(claster):
-    pass
+    r = []
+    for p1 in claster:
+        r += [(sum(math.dist(p1, p2) for p2 in claster), p1)]
+    return min(r)[1]
 
-def get_centroid_transf(cenrts, data):
-    pass
+def get_centroid_transf(data, centers):
+    r = []
+    for p1 in data:
+        r += [(sum(math.dist(p1, p2) for p2 in centers), p1)]
+    return min(r)[1]
 
 def visual(clasters):
     turtle.up()
@@ -29,7 +35,16 @@ def visual(clasters):
 
 
 data = [list(map(float,line.split())) for line in open("27A.txt")]
-clasters = clasterization(data, 0.4)
-visual(clasters)
-#0, 4
+clasters = clasterization(data.copy(), 0.4)
+centers = [get_centroid(c) for c in clasters]
+x, y = get_centroid_transf(data, centers)
+print(x*10000, y *10000)
+#0,4
+
+
+data = [list(map(float,line.split())) for line in open("27B.txt")]
+clasters = clasterization(data.copy(), 0.1)
+centers = [get_centroid(c) for c in clasters]
+x, y = get_centroid_transf(data, centers)
+print(x*10000, y *10000)
 #0,1
