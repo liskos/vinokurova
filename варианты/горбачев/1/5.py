@@ -1,5 +1,7 @@
 def chet(n):
     s = ""
+    if n == 0:
+        return "0"
     while n > 0:
         s = str(n%4) + s
         n = n//4
@@ -7,7 +9,7 @@ def chet(n):
 
 def f(n):
     cht = chet(n)
-    if sum(map(int,str(cht))) % 2 == 0:
+    if sum(map(int,cht)) % 2 == 0:
         cht = "31" + cht + "02"
     else:
         cht = "1" + cht + str(chet((n % 3) * 7))
