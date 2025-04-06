@@ -5,74 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1984921-d784-45b3-9cb8-4a1a7677751f" name="Changes" comment="15 01 25">
-      <change afterPath="$PROJECT_DIR$/ege14/100.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/101.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/107.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/108.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/109.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/110.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/111.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/112.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/113.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/114.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/115.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/116.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/117.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/119.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/120.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/121.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/122.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/123.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/124.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/125.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/126.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/127.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/128.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/129.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/130.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/131.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/132.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/133.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/134.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/135.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/136.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/137.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/138.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/139.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/140.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/141.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/142.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/143.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/144.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/145.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/146.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/147.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/148.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/149.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/150.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/151.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/152.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/153.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/154.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/89.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/90.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/91.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/92.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/93.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/94.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/95.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/96.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/97.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/98.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/99.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege15/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege15/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege15/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege15/4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_03_2025_22_58_[Changes]/10.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_03_2025_22_58_[Changes]/3.xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_03_2025_22_58_[Changes]/9.xlsx" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/варианты/горбачев/4/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/варианты/горбачев/4/3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/варианты/горбачев/4/5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/варианты/горбачев/3/4.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/варианты/горбачев/3/4.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +35,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/liskos/vinokurova.git&quot;,
-    &quot;accountId&quot;: &quot;d643c857-20e0-47c7-85fd-582246ce93eb&quot;
+    &quot;accountId&quot;: &quot;254593f8-8282-453d-adb0-7cbb6281744f&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -206,6 +143,7 @@
     "Python.19.executor": "Run",
     "Python.190.executor": "Run",
     "Python.191.executor": "Run",
+    "Python.2 (1).executor": "Run",
     "Python.2.executor": "Run",
     "Python.23.executor": "Run",
     "Python.24.executor": "Run",
@@ -266,23 +204,23 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Ученик/PycharmProjects/vinokurova/варианты/шастин/9"
+    "last_opened_file_path": "C:/Users/kseni/PycharmProjects/vinokurova1/варианты/горбачев/4"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kseni\PycharmProjects\vinokurova1\варианты\горбачев\4" />
       <recent name="C:\Users\Ученик\PycharmProjects\vinokurova\варианты\шастин\9" />
       <recent name="C:\Users\Ученик\PycharmProjects\vinokurova\варианты\шастин\8" />
       <recent name="C:\Users\kseni\PycharmProjects\vinokurova1\варианты\шастин\7" />
       <recent name="C:\Users\kseni\PycharmProjects\vinokurova1\варианты\шастин\6" />
-      <recent name="C:\Users\kseni\PycharmProjects\vinokurova1\варианты\шастин\5" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\kseni\PycharmProjects\vinokurova1\варианты\шастин\6" />
       <recent name="C:\Users\kseni\PycharmProjects\vinokurova1\варианты\шастин\5" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2">
+  <component name="RunManager" selected="Python.5">
     <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="vinokurova1" />
       <option name="ENV_FILES" value="" />
@@ -305,7 +243,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="153" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="vinokurova1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -314,33 +252,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ege14" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/варианты/горбачев/4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ege14/153.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="154" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="vinokurova1" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ege14" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ege14/154.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/варианты/горбачев/4/2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -393,20 +309,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="vinokurova1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/варианты/горбачев/4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/варианты/горбачев/4/5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.5" />
+        <item itemvalue="Python.2 (1)" />
         <item itemvalue="Python.2" />
         <item itemvalue="Python.3" />
         <item itemvalue="Python.1" />
-        <item itemvalue="Python.154" />
-        <item itemvalue="Python.153" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
+        <option value="bundled-python-sdk-98f27166c754-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.21829.153" />
       </set>
     </attachedChunks>
   </component>
@@ -475,7 +413,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742469016355</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="15 01 25">
+      <option name="closed" value="true" />
+      <created>1743627506306</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1743627506306</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
