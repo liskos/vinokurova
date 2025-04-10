@@ -5,31 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1984921-d784-45b3-9cb8-4a1a7677751f" name="Changes" comment="15 01 25">
-      <change afterPath="$PROJECT_DIR$/ege14/180.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/184.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/185.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/190.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/195.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/216.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/230.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/232.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/272.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/276.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/286.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/313.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/332.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/333.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/334.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/337.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/339.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/340.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/341.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/342.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/343.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/347.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/348.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/356.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege14/357.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/варианты/горбачев/4/10.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/варианты/горбачев/4/12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/варианты/горбачев/4/14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/варианты/горбачев/4/16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/варианты/горбачев/4/17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/варианты/горбачев/4/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/варианты/горбачев/4/18.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/варианты/горбачев/4/19-21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/варианты/горбачев/4/22.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/варианты/горбачев/4/23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/варианты/горбачев/4/8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/варианты/горбачев/4/9.xls" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -170,6 +157,7 @@
     "Python.2 (1).executor": "Run",
     "Python.2.executor": "Run",
     "Python.216.executor": "Run",
+    "Python.23 (1).executor": "Run",
     "Python.23.executor": "Run",
     "Python.230.executor": "Run",
     "Python.232.executor": "Run",
@@ -266,8 +254,8 @@
       <recent name="C:\Users\kseni\PycharmProjects\vinokurova1\варианты\шастин\5" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.357">
-    <configuration name="343" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.23">
+    <configuration name="16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="vinokurova1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -276,11 +264,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ege14" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/варианты/горбачев/4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ege14/343.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/варианты/горбачев/4/16.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -289,7 +277,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="347" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="17" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="vinokurova1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -298,11 +286,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ege14" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/варианты/горбачев/4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ege14/347.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/варианты/горбачев/4/17.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -311,7 +299,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="348" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="19-21" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="vinokurova1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -320,11 +308,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ege14" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/варианты/горбачев/4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ege14/348.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/варианты/горбачев/4/19-21.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -333,7 +321,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="356" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="23 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="vinokurova1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -342,11 +330,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ege14" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/варианты/шастин/4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\kseni\PycharmProjects\vinokurova1\ege14\356.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/варианты/шастин/4/23.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -355,7 +343,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="357" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="23" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="vinokurova1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -364,11 +352,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ege14" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/варианты/горбачев/4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ege14/357.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/варианты/горбачев/4/23.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -379,11 +367,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.357" />
-        <item itemvalue="Python.356" />
-        <item itemvalue="Python.348" />
-        <item itemvalue="Python.347" />
-        <item itemvalue="Python.343" />
+        <item itemvalue="Python.23" />
+        <item itemvalue="Python.23 (1)" />
+        <item itemvalue="Python.19-21" />
+        <item itemvalue="Python.17" />
+        <item itemvalue="Python.16" />
       </list>
     </recent_temporary>
   </component>
@@ -475,7 +463,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743973800043</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="15 01 25">
+      <option name="closed" value="true" />
+      <created>1744303433591</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1744303433591</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
