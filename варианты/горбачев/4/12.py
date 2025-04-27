@@ -14,3 +14,4 @@ for n in range(4, 100):
     r = f(s)
     a.add(sum(map(int, r)))
 print(max(a))
+
